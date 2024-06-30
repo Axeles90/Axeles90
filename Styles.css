@@ -7,7 +7,7 @@ body{
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background: url(archivos/images/fondo\ hojas.avif) center;
+    background: url("https://images.unsplash.com/photo-1497250681960-ef046c08a56e?fm=jpg&w=3000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3") center;
     background-size: cover;
 }
 .desenfocado{
